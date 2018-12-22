@@ -1,4 +1,4 @@
-- [Everything I know about blogging](https://ferrucc.io/posts/starting-a-blog/): 
+### [Everything I know about blogging](https://ferrucc.io/posts/starting-a-blog/): 
   - No one has time to read your article, write the first lines like they’re a TLDR.
   - The design of your site is irrelevant.
   - To start out you don’t need any software.
@@ -14,3 +14,5 @@
   - Start a Newsletter.
   - Do what everyone else is afraid to do.
   - Reach out to people asking for things or offering tips.
+
+### [How to write a technical paper](https://news.ycombinator.com/item?id=18225197)
